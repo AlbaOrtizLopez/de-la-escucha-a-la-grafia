@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260521164443DZ0XJ4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605211644430BDI36</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>De la escucha a la grafía - Alba Ortiz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779374641626</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+      <odeBlockId>block-1779356167507-f57zw9rtv</odeBlockId>
+      <blockName>- De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+          <odeBlockId>block-1779356167507-f57zw9rtv</odeBlockId>
+          <odeIdeviceId>idevice-1779356167503-w8tva99m0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical -</strong></p>
+<p>Bienvenidos y bienvenidas a este proyecto de Lenguaje Musical. A lo largo de las próximas sesiones vamos a trabajar la escucha activa y comprensiva del ritmo, relacionando lo que escuchamos con su representación escrita.</p>
+<p>El objetivo principal no es responder rápido, sino aprender a escuchar con atención, reconocer el pulso, el acento y la subdivisión, diferenciar la métrica simple y compuesta, interpretar patrones rítmicos y representarlos mediante la grafía musical.</p>
+<p>Para ello utilizaremos actividades prácticas, trabajo en grupo, fichas individuales y recursos digitales como Chrome Music Lab - Song Maker, LearningApps y la pizarra digital interactiva del aula.</p>
+<p>Nuestro lema principal será: <strong>No gana quien responde antes, sino quien razona mejor</strong><strong></strong></p>
+<p><strong>Datos del proyecto<br /></strong>Materia: Lenguaje Musical<br />Nivel: 4.º curso de Enseñanzas Básicas de Música<br />Título del proyecto: De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical<br />Duración aproximada: 4 sesiones<br />Espacio: aula de Lenguaje Musical<br />Agrupamientos: gran grupo, pequeños grupos e individual</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779356167503-w8tva99m0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical -</strong></p>\n<p>Bienvenidos y bienvenidas a este proyecto de Lenguaje Musical. A lo largo de las próximas sesiones vamos a trabajar la escucha activa y comprensiva del ritmo, relacionando lo que escuchamos con su representación escrita.</p>\n<p>El objetivo principal no es responder rápido, sino aprender a escuchar con atención, reconocer el pulso, el acento y la subdivisión, diferenciar la métrica simple y compuesta, interpretar patrones rítmicos y representarlos mediante la grafía musical.</p>\n<p>Para ello utilizaremos actividades prácticas, trabajo en grupo, fichas individuales y recursos digitales como Chrome Music Lab - Song Maker, LearningApps y la pizarra digital interactiva del aula.</p>\n<p>Nuestro lema principal será: <strong>No gana quien responde antes, sino quien razona mejor</strong><strong></strong></p>\n<p><strong>Datos del proyecto<br /></strong>Materia: Lenguaje Musical<br />Nivel: 4.º curso de Enseñanzas Básicas de Música<br />Título del proyecto: De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical<br />Duración aproximada: 4 sesiones<br />Espacio: aula de Lenguaje Musical<br />Agrupamientos: gran grupo, pequeños grupos e individual</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+      <odeBlockId>block-1779356409791-6xozedbh0</odeBlockId>
+      <blockName>- Objetivos -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+          <odeBlockId>block-1779356409791-6xozedbh0</odeBlockId>
+          <odeIdeviceId>idevice-1779356409787-pcjthpbw9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Al finalizar este proyecto serás capaz de escuchar, reconocer, interpretar y escribir patrones rítmicos sencillos, justificando musicalmente tus respuestas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779356409787-pcjthpbw9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Al finalizar este proyecto serás capaz de escuchar, reconocer, interpretar y escribir patrones rítmicos sencillos, justificando musicalmente tus respuestas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. ¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+      <odeBlockId>block-1779356492300-54axhb9wo</odeBlockId>
+      <blockName>2. - ¿Qué vamos a aprender? -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+          <odeBlockId>block-1779356492300-54axhb9wo</odeBlockId>
+          <odeIdeviceId>idevice-1779356492295-buwxvquhu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- ¿Qué vamos a aprender? -</strong><br />En este proyecto vamos a trabajar la comprensión del ritmo a partir de la escucha. No se trata solo de reconocer figuras musicales, sino de aprender a identificar qué ocurre dentro de un patrón rítmico y cómo podemos representarlo por escrito.</p>
+<p>A lo largo de las sesiones trabajaremos:</p>
+<p>- La escucha activa de patrones rítmicos breves.<br />- El reconocimiento del pulso y del acento.<br />- La diferencia entre subdivisión binaria y ternaria.<br />- La distinción entre métrica simple y métrica compuesta.<br />- La relación entre lo que escuchamos y la grafía musical.<br />- La interpretación de patrones con palmas, percusión corporal o pequeña percusión.<br />- La transcripción rítmica individual.<br />- La justificación musical de nuestras respuestas.</p>
+<p><br />Para realizar las actividades seguiremos siempre una <strong>secuencia de trabajo</strong>:</p>
+<p style="text-align: center;"><strong>Escuchar → pensar → comparar → responder → justificar → revisar</strong></p>
+<p>Lo más importante será aprender a <strong>explicar</strong> por qué elegimos una respuesta. Por eso, antes de seleccionar una opción o escribir una grafía, nos preguntaremos:</p>
+<p>- ¿Dónde está el pulso?<br />- ¿Dónde siento el acento?<br />- ¿La subdivisión es binaria o ternaria?<br />- ¿Qué grafía representa mejor lo que estoy escuchando?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779356492295-buwxvquhu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- ¿Qué vamos a aprender? -</strong><br />En este proyecto vamos a trabajar la comprensión del ritmo a partir de la escucha. No se trata solo de reconocer figuras musicales, sino de aprender a identificar qué ocurre dentro de un patrón rítmico y cómo podemos representarlo por escrito.</p>\n<p>A lo largo de las sesiones trabajaremos:</p>\n<p>- La escucha activa de patrones rítmicos breves.<br />- El reconocimiento del pulso y del acento.<br />- La diferencia entre subdivisión binaria y ternaria.<br />- La distinción entre métrica simple y métrica compuesta.<br />- La relación entre lo que escuchamos y la grafía musical.<br />- La interpretación de patrones con palmas, percusión corporal o pequeña percusión.<br />- La transcripción rítmica individual.<br />- La justificación musical de nuestras respuestas.</p>\n<p><br />Para realizar las actividades seguiremos siempre una <strong>secuencia de trabajo</strong>:</p>\n<p style=\"text-align: center;\"><strong>Escuchar → pensar → comparar → responder → justificar → revisar</strong></p>\n<p>Lo más importante será aprender a <strong>explicar</strong> por qué elegimos una respuesta. Por eso, antes de seleccionar una opción o escribir una grafía, nos preguntaremos:</p>\n<p>- ¿Dónde está el pulso?<br />- ¿Dónde siento el acento?<br />- ¿La subdivisión es binaria o ternaria?<br />- ¿Qué grafía representa mejor lo que estoy escuchando?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+      <odeBlockId>block-1779356697310-lvm91j8en</odeBlockId>
+      <blockName>Objetivo principal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+          <odeBlockId>block-1779356697310-lvm91j8en</odeBlockId>
+          <odeIdeviceId>idevice-1779356697305-vnzpdq1h6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Aprender a relacionar la escucha rítmica con la escritura musical, razonando las respuestas y revisando los errores como parte del aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779356697305-vnzpdq1h6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Aprender a relacionar la escucha rítmica con la escritura musical, razonando las respuestas y revisando los errores como parte del aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Uso seguro y responsable</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Uso seguro y responsable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Uso seguro y responsable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Uso seguro y responsable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+      <odeBlockId>block-1779356751173-ksozfn1oo</odeBlockId>
+      <blockName>3. - Uso seguro y responsable de los recursos digitales -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+          <odeBlockId>block-1779356751173-ksozfn1oo</odeBlockId>
+          <odeIdeviceId>idevice-1779356751170-59g4vaove</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Uso seguro y responsable de los recursos digitales -</strong><br />En este proyecto utilizaremos algunos recursos digitales como la pizarra digital interactiva, Chrome Music Lab - Song Maker, LearningApps, Padlet o Wakelet.</p>
+<p style="text-align: center;">Estas herramientas nos ayudarán a escuchar, observar, comparar y relacionar los patrones rítmicos con su grafía musical.</p>
+<p>Para trabajar correctamente, tendremos en cuenta estas <strong>normas:</strong><br /></p>
+<table border="1" style="width: 100%; height: 231px; background-color: #fbeeb8; border-color: #bfedd2; border-style: double;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;"><strong>NORMAS DE USO </strong></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">Usaremos los recursos digitales solo para la actividad de clase.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">Respetaremos los turnos de participación en la pizarra digital.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">No compartiremos datos personales, imágenes, vídeos ni audios sin permiso.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">Respetaremos el trabajo de los demás compañeros y compañeras.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">Citaremos o reconoceremos la autoría de los recursos que utilicemos.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 99.8663%; text-align: center; height: 33px;">Escucharemos con atención antes de responder.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /><br /><strong>Revisaremos los errores como parte del aprendizaje.</strong><br />En este proyecto la tecnología no es el objetivo principal, sino una ayuda para aprender mejor. Lo más importante será escuchar, pensar, comparar y justificar nuestras respuestas.</p>
+<p style="text-align: center;"><strong>Recuerda: no gana quien responde antes, sino quien razona mejor.</strong></p>
+<p style="text-align: center;"><strong>  <img src="{{context_path}}/content/resources/Infografia_uso_seguro_recursos_digitales_Lenguaje_Musical.png" title="Uso seguro y responsable de los recursos digitales en Lenguaje Musical." width="1440" height="2036" alt="Consulta la infografía para el uso seguro y responsable de los recursos digitales en Lenguaje Musical." /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779356751170-59g4vaove","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Uso seguro y responsable de los recursos digitales -</strong><br />En este proyecto utilizaremos algunos recursos digitales como la pizarra digital interactiva, Chrome Music Lab - Song Maker, LearningApps, Padlet o Wakelet.</p>\n<p style=\"text-align: center;\">Estas herramientas nos ayudarán a escuchar, observar, comparar y relacionar los patrones rítmicos con su grafía musical.</p>\n<p>Para trabajar correctamente, tendremos en cuenta estas <strong>normas:</strong><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 231px; background-color: #fbeeb8; border-color: #bfedd2; border-style: double;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\"><strong>NORMAS DE USO </strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">Usaremos los recursos digitales solo para la actividad de clase.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">Respetaremos los turnos de participación en la pizarra digital.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">No compartiremos datos personales, imágenes, vídeos ni audios sin permiso.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">Respetaremos el trabajo de los demás compañeros y compañeras.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">Citaremos o reconoceremos la autoría de los recursos que utilicemos.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 99.8663%; text-align: center; height: 33px;\">Escucharemos con atención antes de responder.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br /><br /><strong>Revisaremos los errores como parte del aprendizaje.</strong><br />En este proyecto la tecnología no es el objetivo principal, sino una ayuda para aprender mejor. Lo más importante será escuchar, pensar, comparar y justificar nuestras respuestas.</p>\n<p style=\"text-align: center;\"><strong>Recuerda: no gana quien responde antes, sino quien razona mejor.</strong></p>\n<p style=\"text-align: center;\"><strong>  <img src=\"{{context_path}}/content/resources/Infografia_uso_seguro_recursos_digitales_Lenguaje_Musical.png\" title=\"Uso seguro y responsable de los recursos digitales en Lenguaje Musical.\" width=\"1440\" height=\"2036\" alt=\"Consulta la infografía para el uso seguro y responsable de los recursos digitales en Lenguaje Musical.\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+      <odeBlockId>block-1779357469489-z5nqpr1js</odeBlockId>
+      <blockName>4. - Producto final -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+          <odeBlockId>block-1779357469489-z5nqpr1js</odeBlockId>
+          <odeIdeviceId>idevice-1779357469486-s2zxzv3nu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Producto final -</strong><br />Al finalizar este proyecto elaborarás una pequeña recopilación de patrones rítmicos trabajados en clase.</p>
+<p>En esta tarea tendrás que demostrar que eres capaz de escuchar un patrón rítmico, reconocer sus elementos principales y relacionarlo con su grafía musical.</p>
+<p>En este proyecto vamos a trabajar las siguientes <strong>capacidades musicales:</strong></p>
+<p>- Reconocimiento de patrones rítmicos escuchados.<br />- Asociación entre patrón escuchado y grafía musical.<br />- Transcripción rítmica de algunos ejemplos.<br />- Corrección razonada de las respuestas.<br />- Breve justificación musical utilizando vocabulario adecuado.<br /></p>
+<p style="text-align: center;"><strong>- PASOS DE REALIZACIÓN - </strong></p>
+<p style="text-align: center;">1. Escuchar el patrón con atención.<br />2. Identificar el pulso.<br />3. Reconocer el acento y la subdivisión.<br />4. Pensar si pertenece a métrica simple o compuesta.<br />5. Relacionarlo con la grafía musical correspondiente.<br />6. Revisar la respuesta después de la puesta en común.<br />7. Explicar brevemente qué elemento musical te ha ayudado a decidir.</p>
+<p><br /><strong>IMPORTANTE:</strong> La valoración final no solo depende del número de aciertos, sino también del proceso seguido: la escucha activa, el razonamiento musical, la participación en las correcciones y la capacidad para mejorar tras recibir feedback.</p>
+<p style="text-align: center;"><strong>Recuerda: antes de escribir o elegir una respuesta, escucha, piensa y justifica.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779357469486-s2zxzv3nu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Producto final -</strong><br />Al finalizar este proyecto elaborarás una pequeña recopilación de patrones rítmicos trabajados en clase.</p>\n<p>En esta tarea tendrás que demostrar que eres capaz de escuchar un patrón rítmico, reconocer sus elementos principales y relacionarlo con su grafía musical.</p>\n<p>En este proyecto vamos a trabajar las siguientes <strong>capacidades musicales:</strong></p>\n<p>- Reconocimiento de patrones rítmicos escuchados.<br />- Asociación entre patrón escuchado y grafía musical.<br />- Transcripción rítmica de algunos ejemplos.<br />- Corrección razonada de las respuestas.<br />- Breve justificación musical utilizando vocabulario adecuado.<br /></p>\n<p style=\"text-align: center;\"><strong>- PASOS DE REALIZACIÓN - </strong></p>\n<p style=\"text-align: center;\">1. Escuchar el patrón con atención.<br />2. Identificar el pulso.<br />3. Reconocer el acento y la subdivisión.<br />4. Pensar si pertenece a métrica simple o compuesta.<br />5. Relacionarlo con la grafía musical correspondiente.<br />6. Revisar la respuesta después de la puesta en común.<br />7. Explicar brevemente qué elemento musical te ha ayudado a decidir.</p>\n<p><br /><strong>IMPORTANTE:</strong> La valoración final no solo depende del número de aciertos, sino también del proceso seguido: la escucha activa, el razonamiento musical, la participación en las correcciones y la capacidad para mejorar tras recibir feedback.</p>\n<p style=\"text-align: center;\"><strong>Recuerda: antes de escribir o elegir una respuesta, escucha, piensa y justifica.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+      <odeBlockId>block-1779357725591-do3r6jf19</odeBlockId>
+      <blockName>TAREA: ¿QUÉ ENTREGARÁS?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+          <odeBlockId>block-1779357725591-do3r6jf19</odeBlockId>
+          <odeIdeviceId>idevice-1779357725587-5dbohmfye</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tendrás que entregar tu ficha individual de trabajo, donde aparecerán tus respuestas, las transcripciones rítmicas, las correcciones realizadas y una breve reflexión final sobre qué te ha resultado más fácil o difícil durante el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779357725587-5dbohmfye","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tendrás que entregar tu ficha individual de trabajo, donde aparecerán tus respuestas, las transcripciones rítmicas, las correcciones realizadas y una breve reflexión final sobre qué te ha resultado más fácil o difícil durante el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Recursos digitales</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Recursos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+      <odeBlockId>block-1779358971265-8cja4wf9a</odeBlockId>
+      <blockName>5. - Recursos digitales -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+          <odeBlockId>block-1779358971265-8cja4wf9a</odeBlockId>
+          <odeIdeviceId>idevice-1779358971263-t5azaftct</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Recursos digitales -</strong><br />En este proyecto utilizaremos recursos digitales para escuchar, observar, practicar y repasar algunos contenidos rítmicos trabajados en clase.</p>
+<p>El espacio principal de consulta será el <strong>Padlet </strong>del proyecto. Desde ahí podrás acceder a los recursos y actividades seleccionados para trabajar la escucha, la métrica, los patrones rítmicos y la relación entre sonido y grafía musical.</p>
+<p>Las actividades digitales principales se realizarán en clase, a través de la pizarra digital interactiva, y serán guiadas por la profesora. No necesitas traer ningún dispositivo personal.</p>
+<p>El objetivo de estos recursos no es usar tecnología por usarla, sino ayudarte a escuchar mejor, comparar patrones, comprobar respuestas y comprender la relación entre lo que suena y lo que se escribe.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779358971263-t5azaftct","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Recursos digitales -</strong><br />En este proyecto utilizaremos recursos digitales para escuchar, observar, practicar y repasar algunos contenidos rítmicos trabajados en clase.</p>\n<p>El espacio principal de consulta será el <strong>Padlet </strong>del proyecto. Desde ahí podrás acceder a los recursos y actividades seleccionados para trabajar la escucha, la métrica, los patrones rítmicos y la relación entre sonido y grafía musical.</p>\n<p>Las actividades digitales principales se realizarán en clase, a través de la pizarra digital interactiva, y serán guiadas por la profesora. No necesitas traer ningún dispositivo personal.</p>\n<p>El objetivo de estos recursos no es usar tecnología por usarla, sino ayudarte a escuchar mejor, comparar patrones, comprobar respuestas y comprender la relación entre lo que suena y lo que se escribe.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+      <odeBlockId>block-1779359056447-mhvkre6x1</odeBlockId>
+      <blockName>ENLACE DE ACCESO AL PADLET DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+          <odeBlockId>block-1779359056447-mhvkre6x1</odeBlockId>
+          <odeIdeviceId>idevice-1779359056445-p8dxpycq5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="">Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779359056445-p8dxpycq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"\">Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Secuencia de actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+      <odeBlockId>block-1779359297403-i2eg4arj8</odeBlockId>
+      <blockName>6. - Secuencia de actividades -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+          <odeBlockId>block-1779359297403-i2eg4arj8</odeBlockId>
+          <odeIdeviceId>idevice-1779359297398-e2qr996gi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Secuencia de actividades -</strong><br />El proyecto se desarrollará en cuatro sesiones. En cada una iremos avanzando desde la escucha inicial hasta la escritura y la reflexión final.</p>
+<table border="1" style="width: 100%; background-color: #fbeeb8; border-color: #169179; border-style: ridge;">
+<tbody>
+<tr>
+<td style="width: 22.5497%;"><strong>Sesión 1. Escuchamos y reconocemos</strong></td>
+<td style="width: 77.5213%;">Escucharemos patrones rítmicos breves y marcaremos el pulso de forma corporal. Después identificaremos algunos elementos musicales como el pulso, el acento, la subdivisión y la sensación de métrica simple o compuesta.</td>
+</tr>
+<tr>
+<td style="width: 22.5497%;"><strong>Sesión 2. Relacionamos escucha y grafía</strong></td>
+<td style="width: 77.5213%;">Escucharemos nuevos patrones y los relacionaremos con su grafía musical. Trabajaremos de forma colectiva, en pequeños grupos y también de manera individual con la ficha de trabajo.</td>
+</tr>
+<tr>
+<td style="width: 22.5497%;"><strong>Sesión 3. Interpretamos y escribimos</strong></td>
+<td style="width: 77.5213%;">Interpretaremos algunos patrones con palmas, percusión corporal o pequeña percusión. Después realizaremos transcripciones rítmicas individuales, intentando que la escritura represente correctamente lo que hemos escuchado.</td>
+</tr>
+<tr>
+<td style="width: 22.5497%;"><strong>Sesión 4. Revisamos y reflexionamos</strong></td>
+<td style="width: 77.5213%;">Compararemos las respuestas, corregiremos los errores de forma razonada y reflexionaremos sobre las estrategias que nos han ayudado a reconocer el ritmo, la métrica y la grafía musical.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: center;"><strong>RECUERDA:  Escuchar → pensar → comparar → responder → justificar → revisar</strong></p>
+<p style="text-align: center;"><strong>El objetivo no será terminar rápido, sino comprender mejor lo que escuchamos y aprender a explicarlo musicalmente.</strong></p>
+<p style="text-align: center;"><strong><img src="{{context_path}}/content/resources/Linea_temporal_Alba_Ortiz_p2.png" width="1440" height="810" alt="" /></strong></p>
+<p><br /><br /></p>
+<p><br /><br /></p>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779359297398-e2qr996gi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Secuencia de actividades -</strong><br />El proyecto se desarrollará en cuatro sesiones. En cada una iremos avanzando desde la escucha inicial hasta la escritura y la reflexión final.</p>\n<table border=\"1\" style=\"width: 100%; background-color: #fbeeb8; border-color: #169179; border-style: ridge;\">\n<tbody>\n<tr>\n<td style=\"width: 22.5497%;\"><strong>Sesión 1. Escuchamos y reconocemos</strong></td>\n<td style=\"width: 77.5213%;\">Escucharemos patrones rítmicos breves y marcaremos el pulso de forma corporal. Después identificaremos algunos elementos musicales como el pulso, el acento, la subdivisión y la sensación de métrica simple o compuesta.</td>\n</tr>\n<tr>\n<td style=\"width: 22.5497%;\"><strong>Sesión 2. Relacionamos escucha y grafía</strong></td>\n<td style=\"width: 77.5213%;\">Escucharemos nuevos patrones y los relacionaremos con su grafía musical. Trabajaremos de forma colectiva, en pequeños grupos y también de manera individual con la ficha de trabajo.</td>\n</tr>\n<tr>\n<td style=\"width: 22.5497%;\"><strong>Sesión 3. Interpretamos y escribimos</strong></td>\n<td style=\"width: 77.5213%;\">Interpretaremos algunos patrones con palmas, percusión corporal o pequeña percusión. Después realizaremos transcripciones rítmicas individuales, intentando que la escritura represente correctamente lo que hemos escuchado.</td>\n</tr>\n<tr>\n<td style=\"width: 22.5497%;\"><strong>Sesión 4. Revisamos y reflexionamos</strong></td>\n<td style=\"width: 77.5213%;\">Compararemos las respuestas, corregiremos los errores de forma razonada y reflexionaremos sobre las estrategias que nos han ayudado a reconocer el ritmo, la métrica y la grafía musical.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>RECUERDA:  Escuchar → pensar → comparar → responder → justificar → revisar</strong></p>\n<p style=\"text-align: center;\"><strong>El objetivo no será terminar rápido, sino comprender mejor lo que escuchamos y aprender a explicarlo musicalmente.</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"{{context_path}}/content/resources/Linea_temporal_Alba_Ortiz_p2.png\" width=\"1440\" height=\"810\" alt=\"\" /></strong></p>\n<p><br /><br /></p>\n<p><br /><br /></p>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+      <odeBlockId>block-1779360408392-3qa7vz0uj</odeBlockId>
+      <blockName>7. - Evaluación -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+          <odeBlockId>block-1779360408392-3qa7vz0uj</odeBlockId>
+          <odeIdeviceId>idevice-1779360408388-ir2m94vvo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong> - Evaluación -</strong><br />La evaluación de este proyecto no se centrará solo en acertar o fallar una respuesta. También se tendrá en cuenta cómo escuchas, cómo razonas, cómo participas y cómo mejoras durante las actividades.</p>
+<p style="text-align: center;"><strong>A lo largo del proyecto se valorarán estos aspectos:</strong></p>
+<p style="text-align: center;">La atención durante la escucha de los patrones rítmicos.<br />El reconocimiento del pulso, el acento y la subdivisión.<br />La diferencia entre métrica simple y métrica compuesta.<br />La relación entre lo que escuchas y la grafía musical.<br />La interpretación de patrones con palmas, percusión corporal o pequeña percusión.<br />La transcripción rítmica individual.<br />La justificación musical de tus respuestas.<br />La revisión de los errores después de la puesta en común.<br />La participación y el respeto en el trabajo de grupo.<br /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Para recoger esta información se utilizarán varios <strong>instrumentos:</strong></p>
+<p style="text-align: center;"><strong>Lista de cotejo docente</strong><br />La profesora observará cómo escuchas, cómo participas, cómo reconoces los elementos rítmicos y cómo justificas tus respuestas durante las sesiones.</p>
+<p style="text-align: center;"><strong>Cuaderno de clase y ficha individual</strong><br />En tu ficha o cuaderno anotarás respuestas, transcripciones rítmicas, correcciones y pequeñas reflexiones sobre lo que te ha resultado más fácil o más difícil.</p>
+<p style="text-align: center;"><strong>Rúbrica de tareas individuales</strong><br />La rúbrica servirá para valorar con más detalle las tareas en las que tengas que escuchar un patrón, reconocer sus elementos, escribirlo o relacionarlo con su grafía y justificar tu respuesta.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><strong>Recuerda que el error forma parte del aprendizaje. Lo importante será escuchar con atención, revisar las respuestas y aprender a explicar musicalmente tus decisiones.</strong></p>
+<p style="text-align: center;"><strong>No gana quien responde antes, sino quien razona mejor.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779360408388-ir2m94vvo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong> - Evaluación -</strong><br />La evaluación de este proyecto no se centrará solo en acertar o fallar una respuesta. También se tendrá en cuenta cómo escuchas, cómo razonas, cómo participas y cómo mejoras durante las actividades.</p>\n<p style=\"text-align: center;\"><strong>A lo largo del proyecto se valorarán estos aspectos:</strong></p>\n<p style=\"text-align: center;\">La atención durante la escucha de los patrones rítmicos.<br />El reconocimiento del pulso, el acento y la subdivisión.<br />La diferencia entre métrica simple y métrica compuesta.<br />La relación entre lo que escuchas y la grafía musical.<br />La interpretación de patrones con palmas, percusión corporal o pequeña percusión.<br />La transcripción rítmica individual.<br />La justificación musical de tus respuestas.<br />La revisión de los errores después de la puesta en común.<br />La participación y el respeto en el trabajo de grupo.<br /></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\">Para recoger esta información se utilizarán varios <strong>instrumentos:</strong></p>\n<p style=\"text-align: center;\"><strong>Lista de cotejo docente</strong><br />La profesora observará cómo escuchas, cómo participas, cómo reconoces los elementos rítmicos y cómo justificas tus respuestas durante las sesiones.</p>\n<p style=\"text-align: center;\"><strong>Cuaderno de clase y ficha individual</strong><br />En tu ficha o cuaderno anotarás respuestas, transcripciones rítmicas, correcciones y pequeñas reflexiones sobre lo que te ha resultado más fácil o más difícil.</p>\n<p style=\"text-align: center;\"><strong>Rúbrica de tareas individuales</strong><br />La rúbrica servirá para valorar con más detalle las tareas en las que tengas que escuchar un patrón, reconocer sus elementos, escribirlo o relacionarlo con su grafía y justificar tu respuesta.</p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><strong>Recuerda que el error forma parte del aprendizaje. Lo importante será escuchar con atención, revisar las respuestas y aprender a explicar musicalmente tus decisiones.</strong></p>\n<p style=\"text-align: center;\"><strong>No gana quien responde antes, sino quien razona mejor.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+      <odeBlockId>block-1779360556825-fq407qwxk</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+          <odeBlockId>block-1779360556825-fq407qwxk</odeBlockId>
+          <odeIdeviceId>idevice-1779360556821-9fagtld2r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí puedes consultar con más detalle los instrumentos de evaluación:</p>
+<p><a href="https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing" title="">https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing</a></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/8.1 Instrumentos de evaluación - Alba Ortiz.pdf" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779360556821-9fagtld2r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí puedes consultar con más detalle los instrumentos de evaluación:</p>\n<p><a href=\"https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing\" title=\"\">https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing</a></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/8.1 Instrumentos de evaluación - Alba Ortiz.pdf\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odeBlockId>block-1779360913706-1a915zcto</odeBlockId>
+      <blockName>8. - Guía Didáctica -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odeBlockId>block-1779360913706-1a915zcto</odeBlockId>
+          <odeIdeviceId>idevice-1779360913703-ym32if0vo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Guía didáctica -</strong><br />Esta sección está dirigida principalmente al profesorado. Recoge la información necesaria para aplicar, adaptar o revisar el proyecto en el aula: organización de las sesiones, recursos utilizados, criterios de evaluación e instrumentos de evaluación.</p>
+<p><strong>Datos generales</strong><br /><strong>Título:</strong> De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical<br /><strong>Nivel:</strong> 4.º curso de Enseñanzas Básicas de Música<br /><strong>Materia:</strong> Lenguaje Musical<br /><strong>Temporalización:</strong> 4 sesiones aproximadamente<br /><strong>Espacio:</strong> aula de Lenguaje Musical<br /><strong>Agrupamientos:</strong> gran grupo, pequeños grupos e individual</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779360913703-ym32if0vo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Guía didáctica -</strong><br />Esta sección está dirigida principalmente al profesorado. Recoge la información necesaria para aplicar, adaptar o revisar el proyecto en el aula: organización de las sesiones, recursos utilizados, criterios de evaluación e instrumentos de evaluación.</p>\n<p><strong>Datos generales</strong><br /><strong>Título:</strong> De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical<br /><strong>Nivel:</strong> 4.º curso de Enseñanzas Básicas de Música<br /><strong>Materia:</strong> Lenguaje Musical<br /><strong>Temporalización:</strong> 4 sesiones aproximadamente<br /><strong>Espacio:</strong> aula de Lenguaje Musical<br /><strong>Agrupamientos:</strong> gran grupo, pequeños grupos e individual</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odeBlockId>block-1779361033468-cn0vl18hr</odeBlockId>
+      <blockName>- Descripción -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odeBlockId>block-1779361033468-cn0vl18hr</odeBlockId>
+          <odeIdeviceId>idevice-1779361033466-gacbo8x8g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Descripción -</strong></p>
+<p style="text-align: justify;">La propuesta se centra en el desarrollo de la escucha activa y comprensiva del ritmo. Se trabajan el reconocimiento del pulso, el acento, la subdivisión, la métrica simple y compuesta, los patrones rítmicos y su relación con la grafía musical.</p>
+<p style="text-align: justify;">El uso de la tecnología se plantea de forma guiada y colectiva, principalmente mediante la pizarra digital interactiva. Se evita depender de dispositivos personales del alumnado para favorecer la participación en igualdad de condiciones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779361033466-gacbo8x8g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Descripción -</strong></p>\n<p style=\"text-align: justify;\">La propuesta se centra en el desarrollo de la escucha activa y comprensiva del ritmo. Se trabajan el reconocimiento del pulso, el acento, la subdivisión, la métrica simple y compuesta, los patrones rítmicos y su relación con la grafía musical.</p>\n<p style=\"text-align: justify;\">El uso de la tecnología se plantea de forma guiada y colectiva, principalmente mediante la pizarra digital interactiva. Se evita depender de dispositivos personales del alumnado para favorecer la participación en igualdad de condiciones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odeBlockId>block-1779361101890-ntcmfuuf3</odeBlockId>
+      <blockName>Enlaces a documentos del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odeBlockId>block-1779361101890-ntcmfuuf3</odeBlockId>
+          <odeIdeviceId>idevice-1779361101888-fq0a1e0mf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Documentos docentes del proyecto -</strong></p>
+<p><br /><strong title="">Criterios de evaluación: <a href="https://drive.google.com/file/d/1mfX5GY5CsEuEZuJwr03AMVIYkuya1KSk/view?usp=sharing">https://drive.google.com/file/d/1mfX5GY5CsEuEZuJwr03AMVIYkuya1KSk/view?usp=sharing</a></strong><strong></strong><strong></strong></p>
+<p><strong title="">Instrumentos de evaluación: </strong><strong><a href="https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing">https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing</a></strong><br /></p>
+<p><strong title="">Línea temporal del proyecto: <a href="https://docs.google.com/presentation/d/1nLU4IuiQ1j7WiilZvR2yRLNqkCb2TpE3WdEes4xGeFg/edit?usp=sharing">https://docs.google.com/presentation/d/1nLU4IuiQ1j7WiilZvR2yRLNqkCb2TpE3WdEes4xGeFg/edit?usp=sharing</a></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779361101888-fq0a1e0mf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Documentos docentes del proyecto -</strong></p>\n<p><br /><strong title=\"\">Criterios de evaluación: <a href=\"https://drive.google.com/file/d/1mfX5GY5CsEuEZuJwr03AMVIYkuya1KSk/view?usp=sharing\">https://drive.google.com/file/d/1mfX5GY5CsEuEZuJwr03AMVIYkuya1KSk/view?usp=sharing</a></strong><strong></strong><strong></strong></p>\n<p><strong title=\"\">Instrumentos de evaluación: </strong><strong><a href=\"https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing\">https://drive.google.com/file/d/1BJCa7sLn2NEqXUpS-kNxKcVz2MrAWy2O/view?usp=sharing</a></strong><br /></p>\n<p><strong title=\"\">Línea temporal del proyecto: <a href=\"https://docs.google.com/presentation/d/1nLU4IuiQ1j7WiilZvR2yRLNqkCb2TpE3WdEes4xGeFg/edit?usp=sharing\">https://docs.google.com/presentation/d/1nLU4IuiQ1j7WiilZvR2yRLNqkCb2TpE3WdEes4xGeFg/edit?usp=sharing</a></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odeBlockId>block-1779357896530-i53sd0cwo</odeBlockId>
+      <blockName>- Recursos de curación y herramientas digitales utilizadas -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odeBlockId>block-1779357896530-i53sd0cwo</odeBlockId>
+          <odeIdeviceId>idevice-1779357896524-dhdkwxzh9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Recursos de curación y herramientas digitales utilizadas -</strong><br /><br /></p>
+<table border="1" style="width: 100%; height: 495px; background-color: #fbeeb8; border-color: #169179; border-style: double;">
+<tbody>
+<tr style="height: 129px;">
+<td style="width: 36.02%; height: 129px; text-align: left;"><strong>Chrome Music Lab - Song Maker</strong></td>
+<td style="width: 63.98%; height: 129px;">
+<p>Esta herramienta la utilizaremos para escuchar patrones rítmicos y melódico-rítmicos preparados por la profesora. Nos permitirá repetir los ejemplos, observar su organización visual y comparar diferentes patrones.</p>
+<p><a href="https://musiclab.chromeexperiments.com/Song-Maker/" title="">https://musiclab.chromeexperiments.com/Song-Maker/</a></p>
+</td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 36.02%; height: 129px; text-align: left;"><strong>LearningApps</strong></td>
+<td style="width: 63.98%; height: 129px;">
+<p>Nos servirá para realizar actividades colectivas en la pizarra digital interactiva para reconocer compases, asociar patrones rítmicos con su grafía, ordenar secuencias y comprobar respuestas de forma guiada.</p>
+<p><a href="https://learningapps.org/" title="">https://learningapps.org/</a></p>
+</td>
+</tr>
+<tr style="height: 105px;">
+<td style="width: 36.02%; height: 105px; text-align: left;"><strong>Padlet</strong></td>
+<td style="width: 63.98%; height: 105px;">
+<p>El Padlet del proyecto recogerá recursos y actividades relacionados con el trabajo rítmico. Servirá como espacio de consulta para repasar contenidos y acceder a materiales seleccionados.</p>
+<p><a href="https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="Padlet del proyecto">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 36.02%; height: 33px; text-align: left;"><strong>Wakelet</strong></td>
+<td style="width: 63.98%; height: 33px;">
+<p>El Wakelet funcionará como repositorio de herramientas y recursos digitales útiles para el proyecto. En él se organizarán enlaces relacionados con la escucha, la lectura rítmica, la grafía musical y el uso responsable de la tecnología.</p>
+<p><a href="https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP" title="">https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: justify;">Todos estos recursos se utilizarán de forma guiada en clase. No será necesario que el alumnado utilice dispositivos personales, ya que las actividades principales se realizarán a través de la pizarra digital interactiva y con apoyo de fichas individuales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779357896524-dhdkwxzh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Recursos de curación y herramientas digitales utilizadas -</strong><br /><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 495px; background-color: #fbeeb8; border-color: #169179; border-style: double;\">\n<tbody>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>Chrome Music Lab - Song Maker</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Esta herramienta la utilizaremos para escuchar patrones rítmicos y melódico-rítmicos preparados por la profesora. Nos permitirá repetir los ejemplos, observar su organización visual y comparar diferentes patrones.</p>\n<p><a href=\"https://musiclab.chromeexperiments.com/Song-Maker/\" title=\"\">https://musiclab.chromeexperiments.com/Song-Maker/</a></p>\n</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>LearningApps</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Nos servirá para realizar actividades colectivas en la pizarra digital interactiva para reconocer compases, asociar patrones rítmicos con su grafía, ordenar secuencias y comprobar respuestas de forma guiada.</p>\n<p><a href=\"https://learningapps.org/\" title=\"\">https://learningapps.org/</a></p>\n</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 36.02%; height: 105px; text-align: left;\"><strong>Padlet</strong></td>\n<td style=\"width: 63.98%; height: 105px;\">\n<p>El Padlet del proyecto recogerá recursos y actividades relacionados con el trabajo rítmico. Servirá como espacio de consulta para repasar contenidos y acceder a materiales seleccionados.</p>\n<p><a href=\"https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"Padlet del proyecto\">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.02%; height: 33px; text-align: left;\"><strong>Wakelet</strong></td>\n<td style=\"width: 63.98%; height: 33px;\">\n<p>El Wakelet funcionará como repositorio de herramientas y recursos digitales útiles para el proyecto. En él se organizarán enlaces relacionados con la escucha, la lectura rítmica, la grafía musical y el uso responsable de la tecnología.</p>\n<p><a href=\"https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP\" title=\"\">https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\">Todos estos recursos se utilizarán de forma guiada en clase. No será necesario que el alumnado utilice dispositivos personales, ya que las actividades principales se realizarán a través de la pizarra digital interactiva y con apoyo de fichas individuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+      <odeBlockId>block-1779361575404-dqdgot2il</odeBlockId>
+      <blockName>9. - Créditos y descarga -</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+          <odeBlockId>block-1779361575404-dqdgot2il</odeBlockId>
+          <odeIdeviceId>idevice-1779361575400-dwc95uhc9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>- Créditos y descarga -</strong></p>
+<p><br /><strong>Autoría</strong><br />Este recurso ha sido elaborado por Alba Ortiz López, profesora de Lenguaje Musical.</p>
+<p><strong>Descripción del recurso</strong><br />“De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical” es un proyecto dirigido al alumnado de 4.º curso de Enseñanzas Básicas de Música. Su finalidad es trabajar la escucha activa y comprensiva del ritmo, relacionando el pulso, el acento, la subdivisión, la métrica simple y compuesta, los patrones rítmicos y la grafía musical.</p>
+<p><strong>Licencia</strong><br />Este recurso se comparte con licencia: Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>
+<p>Esto significa que puede compartirse y adaptarse citando la autoría, sin uso comercial y manteniendo la misma licencia.</p>
+<p><strong>Créditos de recursos utilizados</strong><br />Para la elaboración de este proyecto se han utilizado o enlazado los siguientes recursos:</p>
+<p>Chrome Music Lab - Song Maker, como herramienta para crear y reproducir patrones rítmicos.<br />LearningApps, como herramienta para actividades interactivas de reconocimiento y asociación.<br />Padlet, como espacio de consulta de recursos para el alumnado.<br />Wakelet, como herramienta de curación y organización de recursos para la docente.<br />Pizarra digital interactiva SMART Board, como soporte de trabajo colectivo en el aula.<br />Infografía de uso seguro y responsable de recursos digitales elaborada para este proyecto.<br />Línea temporal, criterios de evaluación e instrumentos de evaluación elaborados durante la formación.<br />Descarga del archivo editable<br />El archivo editable de este recurso en formato eXeLearning se puede descargar en el siguiente enlace:</p>
+<p><strong title="">Descargar archivo editable del proyecto: <a href="https://drive.google.com/drive/folders/1wf6TGWX4oTU_AFdrCWnv80QPMsZz2zbX?usp=sharing">https://drive.google.com/drive/folders/1wf6TGWX4oTU_AFdrCWnv80QPMsZz2zbX?usp=sharing</a></strong><br /><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779361575400-dwc95uhc9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Créditos y descarga -</strong></p>\n<p><br /><strong>Autoría</strong><br />Este recurso ha sido elaborado por Alba Ortiz López, profesora de Lenguaje Musical.</p>\n<p><strong>Descripción del recurso</strong><br />“De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical” es un proyecto dirigido al alumnado de 4.º curso de Enseñanzas Básicas de Música. Su finalidad es trabajar la escucha activa y comprensiva del ritmo, relacionando el pulso, el acento, la subdivisión, la métrica simple y compuesta, los patrones rítmicos y la grafía musical.</p>\n<p><strong>Licencia</strong><br />Este recurso se comparte con licencia: Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>\n<p>Esto significa que puede compartirse y adaptarse citando la autoría, sin uso comercial y manteniendo la misma licencia.</p>\n<p><strong>Créditos de recursos utilizados</strong><br />Para la elaboración de este proyecto se han utilizado o enlazado los siguientes recursos:</p>\n<p>Chrome Music Lab - Song Maker, como herramienta para crear y reproducir patrones rítmicos.<br />LearningApps, como herramienta para actividades interactivas de reconocimiento y asociación.<br />Padlet, como espacio de consulta de recursos para el alumnado.<br />Wakelet, como herramienta de curación y organización de recursos para la docente.<br />Pizarra digital interactiva SMART Board, como soporte de trabajo colectivo en el aula.<br />Infografía de uso seguro y responsable de recursos digitales elaborada para este proyecto.<br />Línea temporal, criterios de evaluación e instrumentos de evaluación elaborados durante la formación.<br />Descarga del archivo editable<br />El archivo editable de este recurso en formato eXeLearning se puede descargar en el siguiente enlace:</p>\n<p><strong title=\"\">Descargar archivo editable del proyecto: <a href=\"https://drive.google.com/drive/folders/1wf6TGWX4oTU_AFdrCWnv80QPMsZz2zbX?usp=sharing\">https://drive.google.com/drive/folders/1wf6TGWX4oTU_AFdrCWnv80QPMsZz2zbX?usp=sharing</a></strong><br /><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
