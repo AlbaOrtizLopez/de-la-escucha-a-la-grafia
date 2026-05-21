@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260521164443DZ0XJ4</value>
+    <value>20260521171017P9VHFJ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605211644430BDI36</value>
+    <value>20260521171017O7HCO0</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779374641626</value>
+    <value>1779376200542</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+  <odePageId>page-mpfmnbcd-wzx9y5ota</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1. Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+      <odePageId>page-mpfmnbcd-wzx9y5ota</odePageId>
       <odeBlockId>block-1779356167507-f57zw9rtv</odeBlockId>
       <blockName>- De la escucha a la grafía: desarrollo de la comprensión rítmica en Lenguaje Musical -</blockName>
       <iconName></iconName>
@@ -146,7 +146,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+          <odePageId>page-mpfmnbcd-wzx9y5ota</odePageId>
           <odeBlockId>block-1779356167507-f57zw9rtv</odeBlockId>
           <odeIdeviceId>idevice-1779356167503-w8tva99m0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -178,7 +178,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+      <odePageId>page-mpfmnbcd-wzx9y5ota</odePageId>
       <odeBlockId>block-1779356409791-6xozedbh0</odeBlockId>
       <blockName>- Objetivos -</blockName>
       <iconName></iconName>
@@ -207,7 +207,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwes-s0y3ii6th</odePageId>
+          <odePageId>page-mpfmnbcd-wzx9y5ota</odePageId>
           <odeBlockId>block-1779356409791-6xozedbh0</odeBlockId>
           <odeIdeviceId>idevice-1779356409787-pcjthpbw9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -236,7 +236,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+  <odePageId>page-mpfmnbch-0apim0vg0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. ¿Qué vamos a aprender?</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -272,7 +272,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+      <odePageId>page-mpfmnbch-0apim0vg0</odePageId>
       <odeBlockId>block-1779356492300-54axhb9wo</odeBlockId>
       <blockName>2. - ¿Qué vamos a aprender? -</blockName>
       <iconName></iconName>
@@ -301,7 +301,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+          <odePageId>page-mpfmnbch-0apim0vg0</odePageId>
           <odeBlockId>block-1779356492300-54axhb9wo</odeBlockId>
           <odeIdeviceId>idevice-1779356492295-buwxvquhu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -334,7 +334,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+      <odePageId>page-mpfmnbch-0apim0vg0</odePageId>
       <odeBlockId>block-1779356697310-lvm91j8en</odeBlockId>
       <blockName>Objetivo principal</blockName>
       <iconName></iconName>
@@ -363,7 +363,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwf2-njl57mh6o</odePageId>
+          <odePageId>page-mpfmnbch-0apim0vg0</odePageId>
           <odeBlockId>block-1779356697310-lvm91j8en</odeBlockId>
           <odeIdeviceId>idevice-1779356697305-vnzpdq1h6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -392,7 +392,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+  <odePageId>page-mpfmnbci-iojieqa8c</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Uso seguro y responsable</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -428,7 +428,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+      <odePageId>page-mpfmnbci-iojieqa8c</odePageId>
       <odeBlockId>block-1779356751173-ksozfn1oo</odeBlockId>
       <blockName>3. - Uso seguro y responsable de los recursos digitales -</blockName>
       <iconName></iconName>
@@ -457,7 +457,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwf8-irmm5m5uq</odePageId>
+          <odePageId>page-mpfmnbci-iojieqa8c</odePageId>
           <odeBlockId>block-1779356751173-ksozfn1oo</odeBlockId>
           <odeIdeviceId>idevice-1779356751170-59g4vaove</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -516,7 +516,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+  <odePageId>page-mpfmnbck-bkxyiq2dx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -552,7 +552,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+      <odePageId>page-mpfmnbck-bkxyiq2dx</odePageId>
       <odeBlockId>block-1779357469489-z5nqpr1js</odeBlockId>
       <blockName>4. - Producto final -</blockName>
       <iconName></iconName>
@@ -581,7 +581,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+          <odePageId>page-mpfmnbck-bkxyiq2dx</odePageId>
           <odeBlockId>block-1779357469489-z5nqpr1js</odeBlockId>
           <odeIdeviceId>idevice-1779357469486-s2zxzv3nu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -615,7 +615,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+      <odePageId>page-mpfmnbck-bkxyiq2dx</odePageId>
       <odeBlockId>block-1779357725591-do3r6jf19</odeBlockId>
       <blockName>TAREA: ¿QUÉ ENTREGARÁS?</blockName>
       <iconName></iconName>
@@ -644,7 +644,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfd-c0bz9bpnh</odePageId>
+          <odePageId>page-mpfmnbck-bkxyiq2dx</odePageId>
           <odeBlockId>block-1779357725591-do3r6jf19</odeBlockId>
           <odeIdeviceId>idevice-1779357725587-5dbohmfye</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -673,7 +673,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+  <odePageId>page-mpfmnbcl-52odra13j</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos digitales</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -709,7 +709,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+      <odePageId>page-mpfmnbcl-52odra13j</odePageId>
       <odeBlockId>block-1779358971265-8cja4wf9a</odeBlockId>
       <blockName>5. - Recursos digitales -</blockName>
       <iconName></iconName>
@@ -738,7 +738,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+          <odePageId>page-mpfmnbcl-52odra13j</odePageId>
           <odeBlockId>block-1779358971265-8cja4wf9a</odeBlockId>
           <odeIdeviceId>idevice-1779358971263-t5azaftct</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -768,7 +768,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+      <odePageId>page-mpfmnbcl-52odra13j</odePageId>
       <odeBlockId>block-1779359056447-mhvkre6x1</odeBlockId>
       <blockName>ENLACE DE ACCESO AL PADLET DEL PROYECTO</blockName>
       <iconName></iconName>
@@ -797,14 +797,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfh-lqsky9jx1</odePageId>
+          <odePageId>page-mpfmnbcl-52odra13j</odePageId>
           <odeBlockId>block-1779359056447-mhvkre6x1</odeBlockId>
           <odeIdeviceId>idevice-1779359056445-p8dxpycq5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;"><a href="Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="">Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
+    <p style="text-align: center;">Enlace de acceso al PADLET del proyecto:</p>
+<p style="text-align: center;"><a href="https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779359056445-p8dxpycq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"\">Acceso al PADLET del proyecto: https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779359056445-p8dxpycq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Enlace de acceso al PADLET del proyecto:</p>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"\">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -826,7 +827,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+  <odePageId>page-mpfmnbcl-kgfsmg8xu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Secuencia de actividades</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -862,7 +863,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+      <odePageId>page-mpfmnbcl-kgfsmg8xu</odePageId>
       <odeBlockId>block-1779359297403-i2eg4arj8</odeBlockId>
       <blockName>6. - Secuencia de actividades -</blockName>
       <iconName></iconName>
@@ -891,7 +892,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfm-siwbce1fj</odePageId>
+          <odePageId>page-mpfmnbcl-kgfsmg8xu</odePageId>
           <odeBlockId>block-1779359297403-i2eg4arj8</odeBlockId>
           <odeIdeviceId>idevice-1779359297398-e2qr996gi</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -947,7 +948,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+  <odePageId>page-mpfmnbcm-ivnq2wtrf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Evaluación</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -983,7 +984,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+      <odePageId>page-mpfmnbcm-ivnq2wtrf</odePageId>
       <odeBlockId>block-1779360408392-3qa7vz0uj</odeBlockId>
       <blockName>7. - Evaluación -</blockName>
       <iconName></iconName>
@@ -1012,7 +1013,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+          <odePageId>page-mpfmnbcm-ivnq2wtrf</odePageId>
           <odeBlockId>block-1779360408392-3qa7vz0uj</odeBlockId>
           <odeIdeviceId>idevice-1779360408388-ir2m94vvo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1049,7 +1050,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+      <odePageId>page-mpfmnbcm-ivnq2wtrf</odePageId>
       <odeBlockId>block-1779360556825-fq407qwxk</odeBlockId>
       <blockName>Instrumentos de evaluación</blockName>
       <iconName></iconName>
@@ -1078,7 +1079,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfp-c1bs13kas</odePageId>
+          <odePageId>page-mpfmnbcm-ivnq2wtrf</odePageId>
           <odeBlockId>block-1779360556825-fq407qwxk</odeBlockId>
           <odeIdeviceId>idevice-1779360556821-9fagtld2r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1110,7 +1111,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+  <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1146,7 +1147,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
       <odeBlockId>block-1779360913706-1a915zcto</odeBlockId>
       <blockName>8. - Guía Didáctica -</blockName>
       <iconName></iconName>
@@ -1175,7 +1176,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
           <odeBlockId>block-1779360913706-1a915zcto</odeBlockId>
           <odeIdeviceId>idevice-1779360913703-ym32if0vo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1203,7 +1204,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
       <odeBlockId>block-1779361033468-cn0vl18hr</odeBlockId>
       <blockName>- Descripción -</blockName>
       <iconName></iconName>
@@ -1232,7 +1233,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
           <odeBlockId>block-1779361033468-cn0vl18hr</odeBlockId>
           <odeIdeviceId>idevice-1779361033466-gacbo8x8g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1261,7 +1262,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
       <odeBlockId>block-1779361101890-ntcmfuuf3</odeBlockId>
       <blockName>Enlaces a documentos del proyecto</blockName>
       <iconName></iconName>
@@ -1290,7 +1291,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
           <odeBlockId>block-1779361101890-ntcmfuuf3</odeBlockId>
           <odeIdeviceId>idevice-1779361101888-fq0a1e0mf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1320,7 +1321,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+      <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
       <odeBlockId>block-1779357896530-i53sd0cwo</odeBlockId>
       <blockName>- Recursos de curación y herramientas digitales utilizadas -</blockName>
       <iconName></iconName>
@@ -1349,7 +1350,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwfv-tqxwp01ad</odePageId>
+          <odePageId>page-mpfmnbcn-m979lfkwr</odePageId>
           <odeBlockId>block-1779357896530-i53sd0cwo</odeBlockId>
           <odeIdeviceId>idevice-1779357896524-dhdkwxzh9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1375,7 +1376,7 @@
 <td style="width: 36.02%; height: 105px; text-align: left;"><strong>Padlet</strong></td>
 <td style="width: 63.98%; height: 105px;">
 <p>El Padlet del proyecto recogerá recursos y actividades relacionados con el trabajo rítmico. Servirá como espacio de consulta para repasar contenidos y acceder a materiales seleccionados.</p>
-<p><a href="https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="Padlet del proyecto">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
+<p><a href="https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn" title="">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>
 </td>
 </tr>
 <tr style="height: 33px;">
@@ -1390,7 +1391,7 @@
 <p><br /></p>
 <p style="text-align: justify;">Todos estos recursos se utilizarán de forma guiada en clase. No será necesario que el alumnado utilice dispositivos personales, ya que las actividades principales se realizarán a través de la pizarra digital interactiva y con apoyo de fichas individuales.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779357896524-dhdkwxzh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Recursos de curación y herramientas digitales utilizadas -</strong><br /><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 495px; background-color: #fbeeb8; border-color: #169179; border-style: double;\">\n<tbody>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>Chrome Music Lab - Song Maker</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Esta herramienta la utilizaremos para escuchar patrones rítmicos y melódico-rítmicos preparados por la profesora. Nos permitirá repetir los ejemplos, observar su organización visual y comparar diferentes patrones.</p>\n<p><a href=\"https://musiclab.chromeexperiments.com/Song-Maker/\" title=\"\">https://musiclab.chromeexperiments.com/Song-Maker/</a></p>\n</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>LearningApps</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Nos servirá para realizar actividades colectivas en la pizarra digital interactiva para reconocer compases, asociar patrones rítmicos con su grafía, ordenar secuencias y comprobar respuestas de forma guiada.</p>\n<p><a href=\"https://learningapps.org/\" title=\"\">https://learningapps.org/</a></p>\n</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 36.02%; height: 105px; text-align: left;\"><strong>Padlet</strong></td>\n<td style=\"width: 63.98%; height: 105px;\">\n<p>El Padlet del proyecto recogerá recursos y actividades relacionados con el trabajo rítmico. Servirá como espacio de consulta para repasar contenidos y acceder a materiales seleccionados.</p>\n<p><a href=\"https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"Padlet del proyecto\">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.02%; height: 33px; text-align: left;\"><strong>Wakelet</strong></td>\n<td style=\"width: 63.98%; height: 33px;\">\n<p>El Wakelet funcionará como repositorio de herramientas y recursos digitales útiles para el proyecto. En él se organizarán enlaces relacionados con la escucha, la lectura rítmica, la grafía musical y el uso responsable de la tecnología.</p>\n<p><a href=\"https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP\" title=\"\">https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\">Todos estos recursos se utilizarán de forma guiada en clase. No será necesario que el alumnado utilice dispositivos personales, ya que las actividades principales se realizarán a través de la pizarra digital interactiva y con apoyo de fichas individuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779357896524-dhdkwxzh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>- Recursos de curación y herramientas digitales utilizadas -</strong><br /><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 495px; background-color: #fbeeb8; border-color: #169179; border-style: double;\">\n<tbody>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>Chrome Music Lab - Song Maker</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Esta herramienta la utilizaremos para escuchar patrones rítmicos y melódico-rítmicos preparados por la profesora. Nos permitirá repetir los ejemplos, observar su organización visual y comparar diferentes patrones.</p>\n<p><a href=\"https://musiclab.chromeexperiments.com/Song-Maker/\" title=\"\">https://musiclab.chromeexperiments.com/Song-Maker/</a></p>\n</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 36.02%; height: 129px; text-align: left;\"><strong>LearningApps</strong></td>\n<td style=\"width: 63.98%; height: 129px;\">\n<p>Nos servirá para realizar actividades colectivas en la pizarra digital interactiva para reconocer compases, asociar patrones rítmicos con su grafía, ordenar secuencias y comprobar respuestas de forma guiada.</p>\n<p><a href=\"https://learningapps.org/\" title=\"\">https://learningapps.org/</a></p>\n</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 36.02%; height: 105px; text-align: left;\"><strong>Padlet</strong></td>\n<td style=\"width: 63.98%; height: 105px;\">\n<p>El Padlet del proyecto recogerá recursos y actividades relacionados con el trabajo rítmico. Servirá como espacio de consulta para repasar contenidos y acceder a materiales seleccionados.</p>\n<p><a href=\"https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn\" title=\"\">https://padlet.com/albaortizlopez1989/de-la-escucha-a-la-grafia-recursos-para-trabajar-el-ritmo-en-hwz8ys5h6fo7keqn</a></p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.02%; height: 33px; text-align: left;\"><strong>Wakelet</strong></td>\n<td style=\"width: 63.98%; height: 33px;\">\n<p>El Wakelet funcionará como repositorio de herramientas y recursos digitales útiles para el proyecto. En él se organizarán enlaces relacionados con la escucha, la lectura rítmica, la grafía musical y el uso responsable de la tecnología.</p>\n<p><a href=\"https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP\" title=\"\">https://wakelet.com/wake/tCnBkAYgHsKXojNhE2QmP</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\">Todos estos recursos se utilizarán de forma guiada en clase. No será necesario que el alumnado utilice dispositivos personales, ya que las actividades principales se realizarán a través de la pizarra digital interactiva y con apoyo de fichas individuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1412,7 +1413,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+  <odePageId>page-mpfmnbco-h1v3krcmt</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Créditos y descarga</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -1448,7 +1449,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+      <odePageId>page-mpfmnbco-h1v3krcmt</odePageId>
       <odeBlockId>block-1779361575404-dqdgot2il</odeBlockId>
       <blockName>9. - Créditos y descarga -</blockName>
       <iconName></iconName>
@@ -1477,7 +1478,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpflpwg5-jzwuq7q0l</odePageId>
+          <odePageId>page-mpfmnbco-h1v3krcmt</odePageId>
           <odeBlockId>block-1779361575404-dqdgot2il</odeBlockId>
           <odeIdeviceId>idevice-1779361575400-dwc95uhc9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
